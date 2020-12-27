@@ -148,3 +148,7 @@ It's just exposing our app to the Internet, not really load-balancing (because w
 Grab the load balancer's external IP here:
 
     kubectl get services
+    
+## Auto deployment with Jenkins
+Create a jenkins file on your repo and do the pipeline project in your jenkins    
+    
